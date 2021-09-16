@@ -1,4 +1,4 @@
-# MLBD_Project
+# Course-Recommendation-for-MOOCs
 Author: Kang Fu, Chenkai Wang, Zhijie Song
 # Description
 This is the project of EPFL CS-421 Machine Learning for Behavior Data. Our project is to conduct course recommendations based on the open MOOC site, XuetangX. Our goal is to predict the next course to recommend to each student, based on their needs or interests.
